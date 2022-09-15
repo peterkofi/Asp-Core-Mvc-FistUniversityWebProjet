@@ -48,4 +48,8 @@ header {
     letter-spacing: 0.05em;
 }
 
-#universite hr {}
+#universite span {
+    width: 50px;
+    height: 10px;
+    border-radius: 10px;
+}
